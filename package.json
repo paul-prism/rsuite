@@ -1,6 +1,6 @@
 {
   "name": "@prismiot/rsuite",
-  "version": "5.83.1-prism.0",
+  "version": "5.83.1-prism.1",
   "description": "A suite of react components",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
